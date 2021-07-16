@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "uds",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "rp": 3643.0, "rs": 635, "notes": "Uncontrolled discharge site. 3.929 to 3.892. Low point, tracking in gravel.", "id": 1 }, "geometry": { "type": "Point", "coordinates": [ 170.817656063210137, -45.425304509989573 ] } },
+{ "type": "Feature", "properties": { "rp": 3500.0, "rs": 635, "notes": "Close to KiwiRail Culvert . Ponding in WC between two culverts", "id": 2 }, "geometry": { "type": "Point", "coordinates": [ 170.818214465174606, -45.424081482937098 ] } },
+{ "type": "Feature", "properties": { "rp": 3929.0, "rs": 635, "notes": "Site between 3.929 and 3.892", "id": 3 }, "geometry": { "type": "Point", "coordinates": [ 170.816777031400846, -45.427796589801375 ] } }
+]
+}
